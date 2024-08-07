@@ -1,7 +1,7 @@
-2024-08-07 06:28:04 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
-2024-08-07 06:28:08 | WARNING    | epic_games.agent:get_order_history:467 | Failed to get order history, cookie may have expired - {}
-2024-08-07 06:28:08 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'LumbearJack', 'url': 'https://store.epicgames.com/en-US/p/lumbearjack-b5bedf'}
-2024-08-07 06:28:08 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'RAWMEN: Food Fighter Arena 🍜', 'url': 'https://store.epicgames.com/en-US/p/rawmen-03f74e'}
-2024-08-07 06:28:13 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/lumbearjack-b5bedf'}
-2024-08-07 06:28:28 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/rawmen-03f74e'}
-2024-08-07 06:28:41 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
+2024-08-08 06:27:44 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
+2024-08-08 06:27:48 | WARNING    | epic_games.agent:get_order_history:467 | Failed to get order history, cookie may have expired - {}
+2024-08-08 06:27:48 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'LumbearJack', 'url': 'https://store.epicgames.com/en-US/p/lumbearjack-b5bedf'}
+2024-08-08 06:27:48 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'RAWMEN: Food Fighter Arena 🍜', 'url': 'https://store.epicgames.com/en-US/p/rawmen-03f74e'}
+2024-08-08 06:27:52 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/lumbearjack-b5bedf'}
+2024-08-08 06:28:08 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/rawmen-03f74e'}
+2024-08-08 06:28:21 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
